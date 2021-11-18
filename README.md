@@ -1,2 +1,2 @@
-# GUVI Assignment 2B
+# GUVI
 A simple project
