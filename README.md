@@ -1,2 +1,1 @@
 # GUVI
-A simple project
